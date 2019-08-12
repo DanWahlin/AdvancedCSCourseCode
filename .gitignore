@@ -3,4 +3,4 @@ obj
 *.suo
 *.user
 packages
-.bat
+*.bat
