@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<menuItem>
+		<hyperLink>/phonebooks/default.aspx</hyperLink>
+		<name>PhoneBooks Home</name>
+	</menuItem>
+	<menuItem>
+		<hyperLink>http://www.yp.uswest.com</hyperLink>
+		<name>USWest</name>
+	</menuItem>
+	<menuItem>
+		<hyperLink>/phonebooks/departments.aspx</hyperLink>
+		<name>Department PhoneBooks</name>
+		<menuItem>
+			<hyperLink>/phonebooks/hr.aspx</hyperLink>
+			<name>HR PhoneBook</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/phonebooks/finance.aspx</hyperLink>
+			<name>Finance PhoneBook</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/phonebooks/marketing.aspx</hyperLink>
+			<name>Marketing PhoneBook</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/phonebooks/tech.aspx</hyperLink>
+			<name>Technology PhoneBook</name>
+		</menuItem>
+	</menuItem>
+
+</root>

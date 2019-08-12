@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" version="1.0" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<xsd:element name="products">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="product" maxOccurs="unbounded">
+					<xsd:complexType>
+						<xsd:sequence>
+							<xsd:element name="category" type="xsd:string"/>
+							<xsd:element name="modelName" type="xsd:string"/>
+							<xsd:element name="productImage" type="xsd:string"/>
+							<xsd:element name="unitCost" type="xsd:decimal"/>
+							<xsd:element name="description" type="xsd:string"/>
+						</xsd:sequence>
+						<xsd:attribute name="modelNumber" type="xsd:string"/>
+					</xsd:complexType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<links>
+  <link id="{33A8483D-D389-4ac9-9BCF-A0631DA1ED59}" name="ASP.NET" href="http://msdn.microsoft.com/asp.net" />
+  <link id="{E35A0A40-E24A-4c98-8559-58CE43E7785F}" name=".NET Framework" href="http://msdn.microsoft.com/netframework" />
+  <link id="{FF05AD7B-A915-4424-865E-9CC73D2F8D50}" name="XML" href="http://msdn.microsoft.com/xml" />
+  <link id="{009C8E10-BE9C-47ce-904C-29EF551A78C7}" name="Web Services" href="http://msdn.microsoft.com/webservices" />
+</links>

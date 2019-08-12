@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<Customers>
+    <Customer CustomerID="32">
+        <CompanyName>ACME Corp</CompanyName>
+        <ContactName>John Doe</ContactName>
+        <ContactTitle>Sales Representative</ContactTitle>
+        <Address>1234 Anywhere St.</Address>
+        <City>Phoenix</City>
+        <Zip>85244-1234</Zip>
+        <Phone>123-123-1234</Phone>
+        <Fax>123-123-1235</Fax>
+    </Customer>
+</Customers>

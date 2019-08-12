@@ -1,0 +1,715 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" version="2">
+	<channel>
+		<title>MSDN Just Published</title>
+		<link>http://msdn.microsoft.com/</link>
+		<description>Keep current with all the new technical articles, columns, specifications, and resources published on the Microsoft Developer Network (MSDN).</description>
+		<language>en-us</language>
+		<pubDate>Sat, 07 May 2005 13:00:15 GMT</pubDate>
+		<lastBuildDate>Sat, 07 May 2005 13:00:15 GMT</lastBuildDate>
+		<generator>MSDN RSS Service 1.0.1756.17695</generator>
+		<ttl>1440</ttl>
+		<item>
+			<title>SQL Server for Developers: Detecting and Resolving Stalled and Stuck I/O Issues in SQL Server 2000 SP4</title>
+			<description>SQL Server 2000 SP4 significantly reduces the time it takes to identify and determine the underlying cause of I/O issues.</description>
+			<link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsqldev/html/sqldev_04222005.asp</link>
+			<dc:creator>Robert Dorr</dc:creator>
+			<category domain="msdndomain:ContentType">Column</category>
+			<category domain="msdndomain:ProductVers">SQL Server 2000</category>
+			<category domain="msdndomain:Subject">Input/Output (I/O)</category>
+			<category domain="msdndomain:TechnologyVers">SQL Server</category>
+			<msdn:technology>SQL Server</msdn:technology>
+			<msdn:product>SQL Server 2000</msdn:product>
+			<guid isPermaLink="false">Iliad_7720</guid>
+			<pubDate>Fri, 06 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>skmFAQs.NET: An ASP.NET FAQ Application</title>
+			<description>Scott Mitchell presents a case study of ASPFAQs.com, followed by an overview of skmFAQs.NET, an ASP.NET 1.x application for allowing a defined group of individuals to publish information online.</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/skmfaqs.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+			<category domain="msdndomain:ProductVers">Visual Studio 7.0</category>
+			<category domain="msdndomain:Subject">Web development</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:product>Visual Studio 7.0</msdn:product>
+			<guid isPermaLink="false">Iliad_7762</guid>
+			<pubDate>Fri, 06 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Table of Contents: GridView Examples for ASP.NET 2.0</title>
+			<description>Accomplish a number of common tasks with the Microsoft ASP.NET 2.0 GridView control. Each task is accompanied by a description of the new concepts covered.</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7757</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Improvements in Data Access and Display</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx01.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7763</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Accessing Data with the DataSource Controls</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx02.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7764</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Formatting the GridView</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx03.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7765</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Displaying Master/Detail Data in a GridView</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx04.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7766</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Paging and Sorting the GridView's Data</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx05.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7767</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Displaying Images in a GridView Column</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx06.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7768</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Working with TemplateFields</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx07.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7769</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Drilling Down into Detailed Data</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx08.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7770</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Displaying Summary Data in the Footer</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx09.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7771</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Deleting a GridView's Underlying Data</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx10.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7772</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>GridView Examples for ASP.NET 2.0: Editing the Underlying Data in a GridView</title>
+			<description>GridView examples</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/GridViewEx11.asp</link>
+			<dc:creator>Scott Mitchell</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:technology>ASP.NET</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7773</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Hackers Beware: Keep Bad Guys at Bay with the Advanced Security Features in SQL Server 2005</title>
+			<description>Explore security enhancements in SQL Server 2005 from a developer's perspective: endpoint authentication, support for the security context of managed code that executes on the server, and much more.</description>
+			<link>http://msdn.microsoft.com/msdnmag/issues/05/06/SQLServerSecurity/default.aspx</link>
+			<dc:creator>Don Kiely</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+			<category domain="msdndomain:ProductVers">SQL Server 2005</category>
+			<category domain="msdndomain:Subject">Security</category>
+			<msdn:product>SQL Server 2005</msdn:product>
+			<guid isPermaLink="false">Iliad_7785</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Building SQL Server Integration Services Packages</title>
+			<description>Learn how easy it is to build and debug your first SQL Server Integration Services (SSIS) Package. Donald Farmer introduces the development environment and the basic concepts of packages and walks through the creation and testing of a simple data flow.</description>
+			<link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20050505SQLServerDF/manifest.xml</link>
+			<dc:creator>Donald Farmer</dc:creator>
+			<category domain="msdndomain:ContentType">MSDN TV</category>
+			<category domain="msdndomain:ProductVers">SQL Server 2005</category>
+			<category domain="msdndomain:Subject">Data Access</category>
+			<category domain="msdndomain:Subject">Integration</category>
+			<msdn:product>SQL Server 2005</msdn:product>
+			<guid isPermaLink="false">Iliad_7807</guid>
+			<pubDate>Thu, 05 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Usage Scenarios for SQL Server 2005 Native Web Services</title>
+			<description>Get a detailed look at how to set up SQL Server 2005 for Web service access in a heterogeneous environment, and learn more about key scenarios for Web services in SQL Server 2005.</description>
+			<link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsql90/html/soapscenarios.asp</link>
+			<dc:creator>Srik Raghavan</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+			<category domain="msdndomain:DevLangVers">PERL</category>
+			<category domain="msdndomain:ProductVers">SQL Server 2005</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+			<category domain="msdndomain:TechnologyVers">Web Services</category>
+			<msdn:developmentLanguage>PERL</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework 2.0</msdn:technology>
+			<msdn:technology>Web Services</msdn:technology>
+			<msdn:product>SQL Server 2005</msdn:product>
+			<guid isPermaLink="false">Iliad_7777</guid>
+			<pubDate>Wed, 04 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Creating a Debugger Visualizer Using Visual Studio 2005 Beta 2</title>
+			<description>Write debugger visualizers (custom Windows Forms viewers) to analyze the state of your app while debugging. Use new managed APIs to write managed plug-ins for Visual Studio to visualize managed objects.</description>
+			<link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvs05/html/simplevisualizercreation.asp</link>
+			<dc:creator>Scott Nonnenberg</dc:creator>
+			<category domain="msdndomain:ContentType">Link only</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:ProductVers">Visual Basic</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:product>Visual Basic</msdn:product>
+			<guid isPermaLink="false">Iliad_7782</guid>
+			<pubDate>Wed, 04 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Working with Themes in FrontPage 2003</title>
+			<description>Find help on working with themes in FrontPage, create a custom theme, or use VBA to automate themes.</description>
+			<link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/odc_fp2003_ta/html/OfficeFrontPageWorkingWithThemes.asp</link>
+			<dc:creator>Lisa Wollin</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:ProductVers">Microsoft Office 2003</category>
+			<category domain="msdndomain:ProductVers">MS Office FrontPage 2003</category>
+			<msdn:product>Microsoft Office 2003</msdn:product>
+			<msdn:product>MS Office FrontPage 2003</msdn:product>
+			<guid isPermaLink="false">Iliad_7723</guid>
+			<pubDate>Tue, 03 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Mobile Ink Jots 6: Using Gestures in Tablet PC Applications</title>
+			<description>Gestures provide a powerful mechanism for making your application truly pen-centric. This article will help you implement gestures into your application, and it will provide advice on when to use gestures and how to make them discoverable by your users.</description>
+			<link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnmobink/html/Gestures.asp</link>
+			<dc:creator>Mark Hopkins</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:ProductVers">Windows XP Tablet PC Edition</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:product>Windows XP Tablet PC Edition</msdn:product>
+			<guid isPermaLink="false">Iliad_7758</guid>
+			<pubDate>Tue, 03 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Using Alternate Input Devices in Your Smart Client Applications</title>
+			<description>Input devices such as touch screens and remote controls are referred to as Human Interface Devices (HIDs) and the Windows raw input API provides us with a robust method of accepting input from any combination of HIDs.</description>
+			<link>http://msdn.microsoft.com/smartclient/default.aspx?pull=/library/en-us/dnwinforms/html/altinputdevices.asp</link>
+			<dc:creator>Bruce Thomas</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article w/Code Sample</category>
+			<category domain="msdndomain:ProductVers">Windows</category>
+			<category domain="msdndomain:Subject">Input/Output (I/O)</category>
+			<category domain="msdndomain:Subject">Windows APIs</category>
+			<category domain="msdndomain:TechnologyVers">Windows User Interface</category>
+			<msdn:technology>Windows User Interface</msdn:technology>
+			<msdn:product>Windows</msdn:product>
+			<guid isPermaLink="false">Iliad_7760</guid>
+			<pubDate>Tue, 03 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>.NET Rocks! - Mood Indigo</title>
+			<description>Carl talks with Richard Turner and Anand Rajagopalan, Program Managers on the Indigo team, to really dig into the Indigo experience.</description>
+			<link>http://msdn.microsoft.com/dotnetrocks/</link>
+			<dc:creator>Carl Franklin</dc:creator>
+			<category domain="msdndomain:ContentType">Multimedia</category>
+			<category domain="msdndomain:TechnologyVers">Web Services</category>
+			<msdn:technology>Web Services</msdn:technology>
+			<guid isPermaLink="false">Iliad_7774</guid>
+			<pubDate>Tue, 03 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>BizTalk Server and "Indigo"</title>
+			<description>Scott Woodgate shows a glimpse into the future with a working prototype demo illustrating BizTalk Server and "Indigo" working together.</description>
+			<link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20050428BizTalkSW/manifest.xml</link>
+			<dc:creator>Scott Woodgate</dc:creator>
+			<category domain="msdndomain:ContentType">MSDN TV</category>
+			<category domain="msdndomain:ProductVers">BizTalk Server 2004</category>
+			<category domain="msdndomain:TechnologyVers">Web Services</category>
+			<msdn:technology>Web Services</msdn:technology>
+			<msdn:product>BizTalk Server 2004</msdn:product>
+			<guid isPermaLink="false">Iliad_7775</guid>
+			<pubDate>Tue, 03 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>The Future of the Platform</title>
+			<description>In this special 50th episode of the .NET Show, Rick Rashid, Brad Abrams, John Shewchuk, and Michael Wallent discuss where the Microsoft platform technologies can, should, and will be going in the future. This show also features a special interview with Bill Gates.</description>
+			<link>http://msdn.microsoft.com/theshow/episode.aspx?xml=theshow/en/episode050/manifest.xml</link>
+			<dc:creator>Robert Hess</dc:creator>
+			<category domain="msdndomain:ContentType">.NET Show</category>
+			<category domain="msdndomain:DevLangVers">C#</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+			<category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+			<category domain="msdndomain:ProductVers">Windows Longhorn</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:Subject">Web services</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+			<category domain="msdndomain:TechnologyVers">ASP.NET 2.0</category>
+			<category domain="msdndomain:TechnologyVers">Web Services</category>
+			<msdn:developmentLanguage>C#</msdn:developmentLanguage>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework 2.0</msdn:technology>
+			<msdn:technology>ASP.NET 2.0</msdn:technology>
+			<msdn:technology>Web Services</msdn:technology>
+			<msdn:product>Visual Studio .NET 2003</msdn:product>
+			<msdn:product>Visual Studio 2005</msdn:product>
+			<msdn:product>Windows Longhorn</msdn:product>
+			<guid isPermaLink="false">Iliad_7776</guid>
+			<pubDate>Tue, 03 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Code Secure: Another Look at the SafeInt Class</title>
+			<description>David LeBlanc revisits the SafeInt Class and discusses relevant updates since his last article on this topic.</description>
+			<link>http://msdn.microsoft.com/security/securecode/columns/default.aspx?pull=/library/en-us/dncode/html/secure05052005.asp</link>
+			<dc:creator>David LeBlanc</dc:creator>
+			<category domain="msdndomain:ContentType">Column</category>
+			<category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+			<category domain="msdndomain:TechnologyVers">Security</category>
+			<msdn:technology>Security</msdn:technology>
+			<msdn:product>Visual Studio .NET 2003</msdn:product>
+			<guid isPermaLink="false">Iliad_7761</guid>
+			<pubDate>Mon, 02 May 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>FoxTalk: Hyperlink Your Reports</title>
+			<description>FoxTalk's Doug Hennig continues with the ReportListener class and shows how to add live hyperlinks to output generated from reports, allowing some action to be performed when they're clicked.</description>
+			<link>http://msdn.microsoft.com/vfoxpro/default.aspx?pull=/library/en-us/dnfoxtk05/html/ft05c11.asp</link>
+			<dc:creator>Doug Hennig</dc:creator>
+			<category domain="msdndomain:ContentType">Periodicals</category>
+			<category domain="msdndomain:ProductVers">Visual FoxPro</category>
+			<msdn:product>Visual FoxPro</msdn:product>
+			<guid isPermaLink="false">Iliad_7729</guid>
+			<pubDate>Thu, 28 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Smart Access: Access Answers: Hide Your Input, and it's Pretty Common</title>
+			<description>Smart Access's Doug Steele looks at how you can enhance the built-in InputBox, as well as how to programmatically call a couple of the standard Windows dialogs (the Color and Font dialogs).</description>
+			<link>http://msdn.microsoft.com/office/default.aspx?pull=/library/en-us/dnsmart05/html/sa05c14.asp</link>
+			<dc:creator>Doug Steele</dc:creator>
+			<category domain="msdndomain:ContentType">Periodicals</category>
+			<category domain="msdndomain:ProductVers">Access</category>
+			<category domain="msdndomain:ProductVers">Microsoft Access 2003</category>
+			<msdn:product>Access</msdn:product>
+			<msdn:product>Microsoft Access 2003</msdn:product>
+			<guid isPermaLink="false">Iliad_7730</guid>
+			<pubDate>Thu, 28 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>SQL Server Professional: SQL Essentials: SQLCMD in SQL Server 2005 Beta 2</title>
+			<description>SQL Server Professional's Ron Talmage explores SQLCMD, SQL Server 2005's new command-line query tool and shows you some of the major new features.</description>
+			<link>http://msdn.microsoft.com/sql/default.aspx?pull=/library/en-us/dnsqlpro05/html/sp05c11.asp</link>
+			<dc:creator>Ron Talmage</dc:creator>
+			<category domain="msdndomain:ContentType">Periodicals</category>
+			<category domain="msdndomain:DevLangVers">TSQL</category>
+			<category domain="msdndomain:ProductVers">SQL Server 2005</category>
+			<category domain="msdndomain:TechnologyVers">SQL Server</category>
+			<category domain="msdndomain:TechnologyVers">SQL Server Development Tools</category>
+			<msdn:developmentLanguage>TSQL</msdn:developmentLanguage>
+			<msdn:technology>SQL Server</msdn:technology>
+			<msdn:technology>SQL Server Development Tools</msdn:technology>
+			<msdn:product>SQL Server 2005</msdn:product>
+			<guid isPermaLink="false">Iliad_7731</guid>
+			<pubDate>Thu, 28 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Visual Basic Developer: Database Developer Corner: Disassemble that Assembly</title>
+			<description>Visual Basic Developer's Carl Ganz opens up VB.NET assemblies and shows you how to access them programmatically</description>
+			<link>http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dnvbdev05/html/vb05c9.asp</link>
+			<dc:creator>Carl Ganz, Jr.</dc:creator>
+			<category domain="msdndomain:ContentType">Periodicals</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Basic .NET</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:product>Visual Basic .NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7733</guid>
+			<pubDate>Thu, 28 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Visual Studio .NET Developer: Build a Visual Studio Add-in to Evaluate XPath/XQuery Expressions</title>
+			<description>See how to implement the IDTExtensibility2 interface and create a simple but useful Add-in to execute XPath or XQuery expressions against an XML document without ever leaving Visual Studio.</description>
+			<link>http://msdn.microsoft.com/vstudio/default.aspx?pull=/library/en-us/dnvsdev05/html/vs05c5.asp</link>
+			<dc:creator>Francis A. Shanahan</dc:creator>
+			<category domain="msdndomain:ContentType">Periodicals</category>
+			<category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework</category>
+			<msdn:technology>.NET Framework</msdn:technology>
+			<msdn:product>Visual Studio .NET 2003</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7734</guid>
+			<pubDate>Thu, 28 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Configuring ClickOnce Trusted Publishers</title>
+			<description>Take advantage of Code Access Security runtime protections while still allowing a dynamic determination of permissions at the point of application deployment through ClickOnce.</description>
+			<link>http://msdn.microsoft.com/smartclient/default.aspx?pull=/library/en-us/dnwinforms/html/clickoncetrustpub.asp</link>
+			<dc:creator>Brian Noyes</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:Subject">Deployment</category>
+			<category domain="msdndomain:Subject">Security</category>
+			<category domain="msdndomain:Subject">Windows Forms</category>
+			<category domain="msdndomain:TechnologyVers">.NET Framework 2.0</category>
+			<msdn:technology>.NET Framework 2.0</msdn:technology>
+			<msdn:product>Visual Studio 2005</msdn:product>
+			<guid isPermaLink="false">Iliad_7752</guid>
+			<pubDate>Thu, 28 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Get Refactoring Support for Visual Basic 2005</title>
+			<description>Refactor! for Visual Basic 2005 is a free plug-in that enables you to simplify and restructure source code, making it easier to read and less costly to maintain. Supports over 15 individual features.</description>
+			<link>http://msdn.microsoft.com/vbasic/downloads/2005/tools/refactor/</link>
+			<dc:creator>Developer Express Inc.</dc:creator>
+			<category domain="msdndomain:ContentType">Link only</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Basic 2005</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:product>Visual Basic 2005</msdn:product>
+			<guid isPermaLink="false">Iliad_7717</guid>
+			<pubDate>Wed, 27 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Extending the Personal Web Site Starter Kit</title>
+			<description>Use Visual Studio 2005 and SQL Server 2005 Express Edition to personalize and extend the Personal Web Site Starter Kit.</description>
+			<link>http://msdn.microsoft.com/asp.net/default.aspx?pull=/library/en-us/dnaspp/html/extendpws.asp</link>
+			<dc:creator>Bill Evjen</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:ProductVers">SQL Server 2005 Express Ed</category>
+			<category domain="msdndomain:ProductVers">Visual Studio 2005</category>
+			<category domain="msdndomain:ProductVers">Visual Web Developer 2005 Exp</category>
+			<category domain="msdndomain:Subject">.NET development</category>
+			<category domain="msdndomain:Subject">Web development</category>
+			<msdn:product>SQL Server 2005 Express Ed</msdn:product>
+			<msdn:product>Visual Studio 2005</msdn:product>
+			<msdn:product>Visual Web Developer 2005 Exp</msdn:product>
+			<guid isPermaLink="false">Iliad_7747</guid>
+			<pubDate>Wed, 27 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Designing an Application Migration Strategy for Visual Basic 6.0 to Visual Basic .NET</title>
+			<description>Learn how to minimize the time and effort required for your migration through the application of proven strategies.</description>
+			<link>http://msdn.microsoft.com/vbasic/default.aspx?pull=/library/en-us/dv_vstechart/html/appmigrationstrat.asp</link>
+			<dc:creator>ArtinSoft</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:ProductVers">Visual Basic .NET</category>
+			<category domain="msdndomain:ProductVers">Visual Basic 2005 Express Ed</category>
+			<category domain="msdndomain:ProductVers">Visual Basic 6.0</category>
+			<msdn:product>Visual Basic .NET</msdn:product>
+			<msdn:product>Visual Basic 2005 Express Ed</msdn:product>
+			<msdn:product>Visual Basic 6.0</msdn:product>
+			<guid isPermaLink="false">Iliad_7748</guid>
+			<pubDate>Wed, 27 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Using the Visual Studio .NET 2003 Debugger with ASP.NET Applications</title>
+			<description>See the common problems associated with debugging ASP.NET applications, examples of errors, and how to fix them.</description>
+			<link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dv_vstechart/html/vsdebug.asp</link>
+			<dc:creator>Min Kwan Park</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:ProductVers">Visual Studio .NET 2003</category>
+			<category domain="msdndomain:ProductVers">Visual Studio.NET</category>
+			<msdn:product>Visual Studio .NET 2003</msdn:product>
+			<msdn:product>Visual Studio.NET</msdn:product>
+			<guid isPermaLink="false">Iliad_7749</guid>
+			<pubDate>Wed, 27 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>.NET Rocks! - Kimberly Tripp on SQL Server 2005</title>
+			<description>Kimberly Tripp talks about her famous USB Key demonstration of SQL Server 2005 partitioning and provides such detail of SQL Server 2005 that even the SQL team would say, "Hey, that's cool!" Listen to this show several times to take it all in.</description>
+			<link>http://msdn.microsoft.com/dotnetrocks/</link>
+			<dc:creator>Carl Franklin</dc:creator>
+			<category domain="msdndomain:ContentType">Multimedia</category>
+			<category domain="msdndomain:ProductVers">SQL Server 2005</category>
+			<msdn:product>SQL Server 2005</msdn:product>
+			<guid isPermaLink="false">Iliad_7750</guid>
+			<pubDate>Wed, 27 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Use Windows Embedded and Bring a Device to Market Fast</title>
+			<description>Learn when to Plan, Build, License, Ship and Maintain Your Windows Embedded device with this new comprehensive resource for developers. Get technical resources and tools, download free evaluation software, and much more.</description>
+			<link>http://msdn.microsoft.com/embedded/getstart/bring2market/default.aspx</link>
+			<dc:creator>v-trhorn</dc:creator>
+			<category domain="msdndomain:ContentType">Link only</category>
+			<category domain="msdndomain:DevLangVers">Visual Basic</category>
+			<category domain="msdndomain:ProductVers">Visual Studio</category>
+			<category domain="msdndomain:ProductVers">Windows CE 5.0</category>
+			<category domain="msdndomain:ProductVers">Windows XP Embedded</category>
+			<category domain="msdndomain:Subject">Mobility</category>
+			<category domain="msdndomain:TechnologyVers">.NET Compact Framework</category>
+			<category domain="msdndomain:TechnologyVers">Pocket PC</category>
+			<category domain="msdndomain:TechnologyVers">Pocket PC 2003</category>
+			<category domain="msdndomain:TechnologyVers">Smart Client</category>
+			<category domain="msdndomain:TechnologyVers">Smartphone</category>
+			<category domain="msdndomain:TechnologyVers">Smartphone 2003</category>
+			<msdn:developmentLanguage>Visual Basic</msdn:developmentLanguage>
+			<msdn:technology>.NET Compact Framework</msdn:technology>
+			<msdn:technology>Pocket PC</msdn:technology>
+			<msdn:technology>Pocket PC 2003</msdn:technology>
+			<msdn:technology>Smart Client</msdn:technology>
+			<msdn:technology>Smartphone</msdn:technology>
+			<msdn:technology>Smartphone 2003</msdn:technology>
+			<msdn:product>Visual Studio</msdn:product>
+			<msdn:product>Windows CE 5.0</msdn:product>
+			<msdn:product>Windows XP Embedded</msdn:product>
+			<guid isPermaLink="false">Iliad_7725</guid>
+			<pubDate>Tue, 26 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Configuring a Windows XP Embedded Thin Client</title>
+			<description>Learn how to configure thin clients with Windows XP Embedded. Thin clients have become a very popular computing platform for IT departments.</description>
+			<link>http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnxpesp2/html/XPETCConfiguringXPEmbeddedThinClient.asp</link>
+			<dc:creator>Sean D. Liming &amp; John R. Malin</dc:creator>
+			<category domain="msdndomain:ContentType">Technical Article</category>
+			<category domain="msdndomain:ProductVers">Windows XP Embedded</category>
+			<msdn:product>Windows XP Embedded</msdn:product>
+			<guid isPermaLink="false">Iliad_7727</guid>
+			<pubDate>Mon, 25 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Updated Specification for Web Services Discovery (WS-Discovery)</title>
+			<description>This update to the WS-Discovery spec is based on workshop and partner feedback.</description>
+			<link>http://msdn.microsoft.com/webservices/understanding/specs/default.aspx?pull=/library/en-us/dnglobspec/html/wsmetaspecindex.asp</link>
+			<dc:creator>Microsoft Corp.</dc:creator>
+			<category domain="msdndomain:ContentType">Specification</category>
+			<category domain="msdndomain:Subject">Web services</category>
+			<category domain="msdndomain:TechnologyVers">Web Services</category>
+			<msdn:technology>Web Services</msdn:technology>
+			<guid isPermaLink="false">Iliad_7722</guid>
+			<pubDate>Fri, 22 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Indigo Security in a Nutshell</title>
+			<description>Doug Purdy provides an overview of the Indigo security programming model.</description>
+			<link>http://msdn.microsoft.com/msdntv/episode.aspx?xml=episodes/en/20050421IndigoDP/manifest.xml</link>
+			<dc:creator>Doug Purdy</dc:creator>
+			<category domain="msdndomain:ContentType">MSDN TV</category>
+			<category domain="msdndomain:Subject">Security</category>
+			<category domain="msdndomain:TechnologyVers">Web Services</category>
+			<msdn:technology>Web Services</msdn:technology>
+			<guid isPermaLink="false">Iliad_7728</guid>
+			<pubDate>Thu, 21 Apr 2005 07:00:00 GMT</pubDate>
+		</item>
+	</channel>
+</rss>

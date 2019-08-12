@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" ?> 
+<customerData>
+	<customer id="WID10">
+		<companyInfo>
+			<nameInfo>
+				<companyName>Widgets Inc.</companyName>
+				<contactName name="John Doe" title="President" />
+			</nameInfo>
+			<companyDetails>
+				<address street="1234 Anywhere" city="Pinetop" state="AZ" zip="85244" country="USA" />
+				<phone>
+					<busPhone busLine="520 123-1234" mobile="520 123-1238" />
+					<busFax busLine="520 123-1235" />
+				</phone>
+			</companyDetails>
+		</companyInfo>
+	</customer>
+	<customer id="CarpA">
+		<companyInfo>
+			<nameInfo>
+				<companyName>Carpet Inc.</companyName>
+				<contactName name="Jane Doe" title="President" />
+			</nameInfo>
+			<companyDetails>
+				<address street="1234 Red Carpet St." city="Phoenix" state="AZ" zip="85999" country="USA" />
+				<phone>
+					<busPhone busLine="480 123-1234" mobile="480 123-1238" />
+					<busFax busLine="480 123-1235" />
+				</phone>
+			</companyDetails>
+		</companyInfo>
+	</customer>
+</customerData>

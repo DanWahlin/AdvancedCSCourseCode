@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Working with XML", ".", "{77BEFCCB-A023-4EED-B27B-90D9B8C83E5D}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.2"
+		Debug.AspNetCompiler.VirtualPath = "/Working with XML"
+		Debug.AspNetCompiler.PhysicalPath = "..\Working with XML\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Working with XML\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Working with XML"
+		Release.AspNetCompiler.PhysicalPath = "..\Working with XML\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Working with XML\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50381"
+		SlnRelativePath = "..\Working with XML\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BEFCCB-A023-4EED-B27B-90D9B8C83E5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BEFCCB-A023-4EED-B27B-90D9B8C83E5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10C72CEB-BE21-4550-8D05-E2AB728244E7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfServiceLibrary", "WcfServiceLibrary1\WcfServiceLibrary.csproj", "{47A3E301-59F9-42FE-BC16-A030746439DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleServiceHost", "..\TcpServiceHost\ConsoleServiceHost.csproj", "{551E929D-8AC9-4B84-9CD0-26753301A657}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientApplication", "..\ClientApplication\ClientApplication.csproj", "{2C0A79A6-6DDC-423F-873B-E7C79B86D258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A3E301-59F9-42FE-BC16-A030746439DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A3E301-59F9-42FE-BC16-A030746439DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A3E301-59F9-42FE-BC16-A030746439DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A3E301-59F9-42FE-BC16-A030746439DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551E929D-8AC9-4B84-9CD0-26753301A657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551E929D-8AC9-4B84-9CD0-26753301A657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551E929D-8AC9-4B84-9CD0-26753301A657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551E929D-8AC9-4B84-9CD0-26753301A657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0A79A6-6DDC-423F-873B-E7C79B86D258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0A79A6-6DDC-423F-873B-E7C79B86D258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0A79A6-6DDC-423F-873B-E7C79B86D258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0A79A6-6DDC-423F-873B-E7C79B86D258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

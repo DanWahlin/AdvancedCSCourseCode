@@ -1,0 +1,8 @@
+An article with downloadable code covering WMI topics can be found here:
+
+http://developerland.com/DotNet/Enterprise/145.aspx
+http://developerland.com/DotNet/Enterprise/147.aspx
+
+View WMI classes and associated properties here:
+
+http://msdn2.microsoft.com/en-us/library/aa394084.aspx

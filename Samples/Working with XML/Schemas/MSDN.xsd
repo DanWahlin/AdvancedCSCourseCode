@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:msdn="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:msdndomain="http://msdn.microsoft.com/aboutmsdn/rss/domains" xmlns:dc="http://purl.org/dc/elements/1.1/" attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="MSDN_creatorNS.xsd" />
+    <xs:import namespace="http://msdn.microsoft.com/aboutmsdn/rss/" schemaLocation="MSDN_msdnNS.xsd" />
+    <xs:element name="rss">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="channel">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="title" type="xs:string" />
+                            <xs:element name="link" type="xs:string" />
+                            <xs:element name="description" type="xs:string" />
+                            <xs:element name="language" type="xs:string" />
+                            <xs:element name="pubDate" type="xs:string" />
+                            <xs:element name="lastBuildDate" type="xs:string" />
+                            <xs:element name="generator" type="xs:string" />
+                            <xs:element name="ttl" type="xs:unsignedShort" />
+                            <xs:element maxOccurs="unbounded" name="item">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="title" type="xs:string" />
+                                        <xs:element name="description" type="xs:string" />
+                                        <xs:element name="link" type="xs:string" />
+                                        <xs:element ref="dc:creator" />
+                                        <xs:element maxOccurs="unbounded" name="category">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute name="domain" type="xs:string" use="required" />
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element minOccurs="0" maxOccurs="unbounded" ref="msdn:developmentLanguage" />
+                                        <xs:element minOccurs="0" maxOccurs="unbounded" ref="msdn:technology" />
+                                        <xs:element minOccurs="0" maxOccurs="unbounded" ref="msdn:product" />
+                                        <xs:element name="guid">
+                                            <xs:complexType>
+                                                <xs:simpleContent>
+                                                    <xs:extension base="xs:string">
+                                                        <xs:attribute name="isPermaLink" type="xs:boolean" use="required" />
+                                                    </xs:extension>
+                                                </xs:simpleContent>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element name="pubDate" type="xs:string" />
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="version" type="xs:unsignedByte" use="required" />
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

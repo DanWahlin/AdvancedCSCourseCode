@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+	<xs:element name="address">
+		<xs:complexType>
+			<xs:attribute name="street" type="xs:string" use="required"/>
+			<xs:attribute name="city" type="xs:string" use="required" />
+			<xs:attribute name="state" type="xs:string" use="required"/>
+			<xs:attribute name="zip" type="xs:int" use="required" />
+			<xs:attribute name="country" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="busFax">
+		<xs:complexType>
+			<xs:attribute name="busLine" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="busPhone">
+		<xs:complexType>
+			<xs:attribute name="busLine" type="xs:string" use="required"/>
+			<xs:attribute name="mobile" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="companyDetails">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="address"/>
+				<xs:element ref="phone"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="companyInfo">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="nameInfo"/>
+				<xs:element ref="companyDetails"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="companyName" type="xs:string"/>
+	<xs:element name="contactName">
+		<xs:complexType>
+			<xs:attribute name="name" type="xs:string" use="required"/>
+			<xs:attribute name="title" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="customer">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="companyInfo"/>
+			</xs:sequence>
+			<xs:attribute name="id" use="required" type="xs:string" />
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="customerData">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="customer" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="nameInfo">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="companyName"/>
+				<xs:element ref="contactName"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="phone">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="busPhone"/>
+				<xs:element ref="busFax"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,36 @@
+﻿<html>
+<body>
+
+<p>This data directory is used by several of the other LINQ samples. Note the 
+copy of the database entitled <strong>Northwind.mdf</strong> found in this 
+directory. This is a custom version of
+<a href="http://www.microsoft.com/downloads/details.aspx?familyid=06616212-0356-46a0-8da2-eebc53a68034&amp;displaylang=en">
+Northwind</a> database that is used by many Microsoft products. Changes made to 
+this database include the addition of new stored procedures and fields designed 
+to show off particular LINQ features. There is a second copy of this database in 
+the <strong>SampleQueries</strong> project. Two copies of Northwind were shipped 
+so that <strong>SampleQueries</strong> can be copied easily as a discrete entity 
+from one location to another. If you move other samples, such as <strong>
+LinqToNorthwind</strong>, you would also have to bring this <strong>Data</strong> 
+directory along with it.</p>
+<p>Other files found in this directory include various small XML files that are 
+used by some of the other LINQ samples. Note that these XML files are again 
+duplicated in the <strong>SampleQueries</strong> directory, for the same reason 
+outlined above.</p>
+<p>It is important that the files in this directory are not marked as read only. 
+Many of the samples will not run correctly if these files have their read only 
+attribute set. In particular, you may have trouble connecting to the Northwind 
+database unless you have permissions to both read and write to <strong>
+Northwind.mdf</strong>.</p>
+<p>The following text, which summarizes some of the information explained in 
+this file, is duplicated in most of the other ReadMe.html files included with 
+the LINQ samples:&nbsp;</p>
+<p><em>Many of the LINQ samples require XML files and/or the version of the 
+Northwind sample database that is located in the Data sample. If you 
+install the Data sample under the same parent folder as the other LINQ 
+samples, then the path for the XML files and database file will be 
+resolved automatically. Many of the sample files also require the 
+ObjectDumper project.</em></p>
+
+</body>
+</html>

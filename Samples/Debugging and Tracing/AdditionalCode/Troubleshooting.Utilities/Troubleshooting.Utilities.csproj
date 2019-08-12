@@ -1,0 +1,72 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BF1B10B2-7DCB-4E47-823A-72E90625D98D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Troubleshooting.Utilities</RootNamespace>
+    <AssemblyName>Troubleshooting.Utilities</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Debugging\Course.cs" />
+    <Compile Include="EventLog\EventLogManager.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="EventLog\EventLogManager.Designer.cs">
+      <DependentUpon>EventLogManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerformanceCounters\PerfMonManager.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PerformanceCounters\PerfMonManager.Designer.cs">
+      <DependentUpon>PerfMonManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tracing\TraceManager.cs" />
+    <Compile Include="TryCatchFinally\CustomException.cs" />
+    <Compile Include="TryCatchFinally\TryCatchFinallyDemo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EventLog\EventLogManager.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EventLogManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PerformanceCounters\PerfMonManager.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PerfMonManager.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

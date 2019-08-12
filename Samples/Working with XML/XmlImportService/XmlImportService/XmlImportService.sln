@@ -1,0 +1,34 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlImportService", "XmlImportService.csproj", "{ACE8BAB8-3416-467F-AB3E-4C0F1587D49F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2EB60357-5EA9-4E98-B605-638EF32B64F6} = {2EB60357-5EA9-4E98-B605-638EF32B64F6}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlValidation", "..\XmlValidation\XmlValidation.csproj", "{2EB60357-5EA9-4E98-B605-638EF32B64F6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "XmlImportServiceSetup", "..\XmlImportServiceSetup\XmlImportServiceSetup.vdproj", "{61E2D58E-7A44-468B-8FC1-7D32DAAD5561}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACE8BAB8-3416-467F-AB3E-4C0F1587D49F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE8BAB8-3416-467F-AB3E-4C0F1587D49F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE8BAB8-3416-467F-AB3E-4C0F1587D49F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE8BAB8-3416-467F-AB3E-4C0F1587D49F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB60357-5EA9-4E98-B605-638EF32B64F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB60357-5EA9-4E98-B605-638EF32B64F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB60357-5EA9-4E98-B605-638EF32B64F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB60357-5EA9-4E98-B605-638EF32B64F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E2D58E-7A44-468B-8FC1-7D32DAAD5561}.Debug|Any CPU.ActiveCfg = Debug
+		{61E2D58E-7A44-468B-8FC1-7D32DAAD5561}.Debug|Any CPU.Build.0 = Debug
+		{61E2D58E-7A44-468B-8FC1-7D32DAAD5561}.Release|Any CPU.ActiveCfg = Release
+		{61E2D58E-7A44-468B-8FC1-7D32DAAD5561}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

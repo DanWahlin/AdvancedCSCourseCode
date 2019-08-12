@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://msdn.microsoft.com/aboutmsdn/rss/" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://msdn.microsoft.com/aboutmsdn/rss/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="product" type="xs:string" />
+    <xs:element name="developmentLanguage" type="xs:string" />
+    <xs:element name="technology" type="xs:string" />
+</xs:schema>

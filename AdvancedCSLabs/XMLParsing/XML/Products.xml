@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product modelNumber="NIKE400cc">
+		<category>Woods</category>
+		<modelName>400cc Nike Golf Forged Titanium Driver</modelName>
+		<productImage>NIKE400cc.jpg</productImage>
+		<unitCost>369.00</unitCost>
+		<description><![CDATA[
+		Built for golfers who want help minimizing mistakes off the
+		tee, the 400cc Forged Titanium Driver has an effective hitting area 3X as
+		large as the 275CC model.
+                ]]></description>
+	</product>
+	<product modelNumber="NIKEFB">
+		<category>Irons</category>
+		<modelName>Nike Forged Blade Irons</modelName>
+		<productImage>NIKEFB.jpg</productImage>
+		<unitCost>999.00</unitCost>
+		<description><![CDATA[
+		Nike's first set of irons, made under the supervision of
+		master clubmaker Tom Stites, utilizes a two-step forging process.
+                ]]></description>
+	</product>
+</products>

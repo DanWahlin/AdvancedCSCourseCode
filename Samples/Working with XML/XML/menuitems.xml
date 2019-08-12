@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<menuItem>
+		<hyperLink>/default/default.asp</hyperLink>
+		<name>Home</name>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>About Our Company</name>
+		<menuItem>
+			<hyperLink>/calendar/default.asp</hyperLink>
+			<name>Calendars</name>
+			<menuItem>
+				<hyperLink>/calendar/default.asp</hyperLink>
+				<name>This Year</name>
+			</menuItem>
+			<menuItem>
+				<hyperLink>/calendar/default.asp</hyperLink>
+				<name>This Month</name>
+			</menuItem>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/countygovt/default.asp</hyperLink>
+			<name>County Government</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/countygovt/pdf/orgchart.pdf</hyperLink>
+			<name>Organization Charts</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>Communications</name>
+		<menuItem>
+			<hyperLink>/phonebooks/employee_directory/telephone_lookup.asp</hyperLink>
+			<name>Employee Directory</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/phonebooks/default.asp</hyperLink>
+			<name>Department Phone Books</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>http://www.yp.uswest.com/</hyperLink>
+			<name>US West</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/pio/default.asp</hyperLink>
+			<name>Publications</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/materials/mail/default.asp</hyperLink>
+			<name>Mail Tips</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>mail.asp</hyperLink>
+			<name>Bulletin Board</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>e-Info</name>
+		<menuItem>
+			<hyperLink>/pp/default.asp</hyperLink>
+			<name>Policies &amp; Procedures</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/library/default.asp</hyperLink>
+			<name>Documents</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/ethics/default.asp</hyperLink>
+			<name>Ethics@Work</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/library/default.asp</hyperLink>
+			<name>Libraries</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>Tech World</name>
+		<menuItem>
+			<hyperLink>pwd.asp</hyperLink>
+			<name>Change Password</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/itsite/client_configuration.asp</hyperLink>
+			<name>Client Configuration</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/feedback/feedback.asp</hyperLink>
+			<name>Feedback</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/help/default.asp</hyperLink>
+			<name>Help</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/default/hot.asp</hyperLink>
+			<name>HOT!</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/itsite/is_configuration.asp</hyperLink>
+			<name>Infrastructure</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/new/default.asp</hyperLink>
+			<name>New</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>For Employees</name>
+		<menuItem>
+			<hyperLink>/benefits/default.asp</hyperLink>
+			<name>Benefits</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/library/employee_corner/default.asp</hyperLink>
+			<name>Cigna Doctors</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/csc/default.asp</hyperLink>
+			<name>Customer Support Center</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/empcorner/default.asp</hyperLink>
+			<name>Employee Corner</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/emppgms/default.asp</hyperLink>
+			<name>Employee Programs</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/pp/hr/tocs/hr_toc.asp</hyperLink>
+			<name>HR Policies &amp; Procedures</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/internaljobs/default.asp</hyperLink>
+			<name>Internal Jobs</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/benefits/ombudsman.asp</hyperLink>
+			<name>Ombudsman</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/emppgms/cop/default.asp</hyperLink>
+			<name>Commute Options</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/default/includes/traffic_links_include.asp</hyperLink>
+			<name>Traffic Update</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>Dollars &amp; Sense</name>
+		<menuItem>
+			<hyperLink>strategy.asp</hyperLink>
+			<name>Annual Business Strategies</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink/>
+			<name>Budget World</name>
+			<menuItem>
+				<hyperLink>/library/budget/default.asp</hyperLink>
+				<name>Infomemos</name>
+			</menuItem>
+			<menuItem>
+				<hyperLink>/phonebooks/pdf/omb_phones.pdf</hyperLink>
+				<name>Analysts</name>
+			</menuItem>
+			<menuItem>
+				<hyperLink>/pp/budget/tocs/Policies_TOC.asp</hyperLink>
+				<name>Budget Policies</name>
+			</menuItem>
+		</menuItem>
+		<menuItem>
+			<hyperLink/>
+			<name>Finance World</name>
+			<menuItem>
+				<hyperLink>/finance/default.asp</hyperLink>
+				<name>Infomenu</name>
+			</menuItem>
+			<menuItem>
+				<hyperLink>/finance/phones.asp</hyperLink>
+				<name>Finance Contacts</name>
+			</menuItem>
+			<menuItem>
+				<hyperLink>reports.asp</hyperLink>
+				<name>CAFR Reports</name>
+			</menuItem>
+			<menuItem>
+				<hyperLink>reports.asp</hyperLink>
+				<name>Financial Reporting</name>
+			</menuItem>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/materials/default.asp</hyperLink>
+			<name>Procurement</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/officedepot/default.asp</hyperLink>
+			<name>Office Depot</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>Technology</name>
+		<menuItem>
+			<hyperLink>/itsite/default.asp</hyperLink>
+			<name>Tech World</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/library/itsite/pdf/desktop_strategy.pdf</hyperLink>
+			<name>Desktop Configuration</name>
+		</menuItem>
+		<menuItem>
+			<hyperlink>/engineering/default.asp</hyperlink>
+			<name>Engineering</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/itsite/cois.asp</hyperLink>
+			<name>Technology Forums</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/feedback/feedback.asp?keyword1=technology&amp;keyword2=compensation</hyperLink>
+			<name>OCIO Feedback</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/comp_train.asp</hyperLink>
+			<name>IT Training</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/year2000/default.asp</hyperLink>
+			<name>Y2K Site</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/itsite/tips_and_tricks.asp</hyperLink>
+			<name>Tips &amp; Tricks</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>Training &amp; Development</name>
+		<menuItem>
+			<hyperLink>/training/default.asp</hyperLink>
+			<name>Training Homepage</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/pdf/catalog.pdf</hyperLink>
+			<name>Course Catalog</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/schedules.asp</hyperLink>
+			<name>Course Schedule</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/pdf/registration.pdf</hyperLink>
+			<name>Course Registration</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/pdf/tuition.pdf</hyperLink>
+			<name>Tuition Reimbursement</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/resource_network/default.asp</hyperLink>
+			<name>Learning Resource Network</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/itsite/tips_and_tricks.asp</hyperLink>
+			<name>Technology Tips &amp; Tricks</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/wellness/brown_bag_lunch/brownbag.asp</hyperLink>
+			<name>Brown Bag Series</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/training/ethics/default.asp</hyperLink>
+			<name>Ethics@Work</name>
+		</menuItem>
+	</menuItem>
+	<menuItem>
+		<hyperLink/>
+		<name>Workplace Services</name>
+		<menuItem>
+			<hyperLink>/equipmentxchange/default.asp</hyperLink>
+			<name>Equipment Xchange</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/materials/mail/default.asp</hyperLink>
+			<name>Mail Tips</name>
+		</menuItem>
+		<menuItem>
+			<hyperLink>/pp/admin/tocs/PropFac_TOC.asp</hyperLink>
+			<name>Security</name>
+		</menuItem>
+	</menuItem>
+</root>
